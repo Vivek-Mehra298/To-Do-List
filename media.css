@@ -1,0 +1,7 @@
+@media screen and (max-width:800px)
+{
+    ul{
+        width: 85%;
+        margin-left: 1.7rem;
+    }
+}
