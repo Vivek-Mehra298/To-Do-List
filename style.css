@@ -86,6 +86,8 @@ ul li p{
     font-width:600;
     cursor:pointer;
     padding:8px;
+    border:1px solid black;
+    border-radius:2px;
 }
 
 .deleteBtn{
